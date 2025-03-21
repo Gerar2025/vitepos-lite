@@ -1,0 +1,6 @@
+<> .github/workflows/build.yml
+name: Build and Release
+
+on:
+  push:
+    tags:
